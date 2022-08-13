@@ -8,4 +8,4 @@ this is a repository for lanlian's students studying and communicating,everybody
 
 
 
-<html>![](./lanlian-pics/logo.png)</html> 
+> ![](./lanlian-pics/logo.png)
